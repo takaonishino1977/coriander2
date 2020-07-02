@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054841855133",
+    "firebase_url": "https://coriander-app-2729f.firebaseio.com",
+    "project_id": "coriander-app-2729f",
+    "storage_bucket": "coriander-app-2729f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054841855133:android:eb6a543fca5565da468874",
+        "android_client_info": {
+          "package_name": "com.tnworkdomain.flutter_app_coriander2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054841855133-803r574n7i517i5rlcvdf55o2emk7egc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiWkZS8PcK77Fkipcel3L06tnPmdrKwwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054841855133-803r574n7i517i5rlcvdf55o2emk7egc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1054841855133-6vvn3j98qdsepc4jku6oqdb15uvhl62s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tnworkdomain.flutterAppCoriander2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

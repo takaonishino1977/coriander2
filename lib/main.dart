@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_app_coriander2/main_model.dart';
 import 'package:provider/provider.dart';
 
+import 'book_list_page.dart';
+
 void main() {
   runApp(MyApp());
 }
@@ -32,7 +34,10 @@ class MyApp extends StatelessWidget {
                     RaisedButton(
                       child: Text('ボタン'),
                       onPressed: () {
-                        model.changeKboyText();
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => BookList()),
+                        );
                       },
                     )
                   ],
